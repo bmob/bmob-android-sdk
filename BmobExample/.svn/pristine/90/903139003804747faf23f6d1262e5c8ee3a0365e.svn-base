@@ -1,0 +1,1127 @@
+a.boneless$The: void V(int)
+a.boneless$The: void Code(java.lang.String)
+a.boneless$The: boneless$The()
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: int getClientWidth()
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.DrawerLayout: void setScrimColor(int)
+android.support.v4.widget.DrawerLayout: void setDrawerListener(android.support.v4.widget.DrawerLayout$DrawerListener)
+android.support.v4.widget.DrawerLayout: void setDrawerLockMode(int)
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SlidingPaneLayout: void setParallaxDistance(int)
+android.support.v4.widget.SlidingPaneLayout: int getParallaxDistance()
+android.support.v4.widget.SlidingPaneLayout: void setSliderFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getSliderFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setCoveredFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getCoveredFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setPanelSlideListener(android.support.v4.widget.SlidingPaneLayout$PanelSlideListener)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawable(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResource(int)
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState: android.os.Parcelable$Creator CREATOR
+cn.bmob.push.BmobPush
+cn.bmob.push.BmobPush: BmobPush()
+cn.bmob.push.BmobPush: void startWork(android.content.Context,java.lang.String)
+cn.bmob.push.BmobPush: void Code(android.content.Context,java.lang.String)
+cn.bmob.push.BmobPush: void V(android.content.Context,java.lang.String)
+cn.bmob.push.BmobPush$1
+cn.bmob.push.BmobPush$1: android.content.Context Code
+cn.bmob.push.BmobPush$1: BmobPush$1(android.content.Context)
+cn.bmob.push.BmobPush$1: void Code(java.lang.Object)
+cn.bmob.push.BmobPush$2
+cn.bmob.push.BmobPush$2: BmobPush$2()
+cn.bmob.push.BmobPush$2: void Code(c.strength)
+cn.bmob.push.PushConstants
+cn.bmob.push.PushConstants: java.lang.String ACTION_MESSAGE
+cn.bmob.push.PushConstants: java.lang.String EXTRA_PUSH_MESSAGE_STRING
+cn.bmob.push.PushConstants: void <clinit>()
+cn.bmob.push.PushConstants: PushConstants()
+cn.bmob.push.PushReceiver
+cn.bmob.push.PushReceiver: android.net.NetworkInfo$State V
+cn.bmob.push.PushReceiver: android.net.NetworkInfo$State I
+cn.bmob.push.PushReceiver: PushReceiver()
+cn.bmob.push.PushReceiver: void onReceive(android.content.Context,android.content.Intent)
+cn.bmob.push.The
+cn.bmob.push.The: cn.bmob.push.The Z
+cn.bmob.push.The: cn.bmob.push.lib.service.is B
+cn.bmob.push.The: cn.bmob.push.The$The C
+cn.bmob.push.The: android.content.Context mContext
+cn.bmob.push.The: android.content.ServiceConnection S
+cn.bmob.push.The: cn.bmob.push.lib.service.boneless F
+cn.bmob.push.The: void <clinit>()
+cn.bmob.push.The: The()
+cn.bmob.push.The: cn.bmob.push.The Code()
+cn.bmob.push.The: boolean Code(android.content.Context)
+cn.bmob.push.The: void V()
+cn.bmob.push.The: void Code(java.util.Observer)
+cn.bmob.push.The: cn.bmob.push.lib.service.is Code(cn.bmob.push.The)
+cn.bmob.push.The: cn.bmob.push.lib.service.boneless V(cn.bmob.push.The)
+cn.bmob.push.The: void Code(cn.bmob.push.The,cn.bmob.push.lib.service.is)
+cn.bmob.push.The: cn.bmob.push.The$The I(cn.bmob.push.The)
+cn.bmob.push.The: android.content.Context Z(cn.bmob.push.The)
+cn.bmob.push.The$The
+cn.bmob.push.The$The: The$The(cn.bmob.push.The,byte)
+cn.bmob.push.The$The: void V(java.lang.Object)
+cn.bmob.push.The$The: The$The(cn.bmob.push.The)
+cn.bmob.push.is
+cn.bmob.push.is: cn.bmob.push.The D
+cn.bmob.push.is: is(cn.bmob.push.The)
+cn.bmob.push.is: void Code(android.os.Bundle)
+cn.bmob.push.lib.service.PushService
+cn.bmob.push.lib.service.PushService: cn.bmob.push.lib.service.The aB
+cn.bmob.push.lib.service.PushService: java.util.Observer aC
+cn.bmob.push.lib.service.PushService: cn.bmob.push.lib.service.tongue aw
+cn.bmob.push.lib.service.PushService: cn.bmob.push.lib.service.PushService$The aD
+cn.bmob.push.lib.service.PushService: cn.bmob.push.lib.service.is$The aE
+cn.bmob.push.lib.service.PushService: PushService()
+cn.bmob.push.lib.service.PushService: void onCreate()
+cn.bmob.push.lib.service.PushService: void onStart(android.content.Intent,int)
+cn.bmob.push.lib.service.PushService: int onStartCommand(android.content.Intent,int,int)
+cn.bmob.push.lib.service.PushService: void Code(android.content.Intent)
+cn.bmob.push.lib.service.PushService: android.os.IBinder onBind(android.content.Intent)
+cn.bmob.push.lib.service.PushService: boolean onUnbind(android.content.Intent)
+cn.bmob.push.lib.service.PushService: void onDestroy()
+cn.bmob.push.lib.service.PushService: cn.bmob.push.lib.service.PushService$The Code(cn.bmob.push.lib.service.PushService)
+cn.bmob.push.lib.service.PushService: cn.bmob.push.lib.service.The V(cn.bmob.push.lib.service.PushService)
+cn.bmob.push.lib.service.PushService$The
+cn.bmob.push.lib.service.PushService$The: PushService$The(cn.bmob.push.lib.service.PushService,byte)
+cn.bmob.push.lib.service.PushService$The: void onCallbackDied(android.os.IInterface)
+cn.bmob.push.lib.service.PushService$The: void onCallbackDied(android.os.IInterface,java.lang.Object)
+cn.bmob.push.lib.service.PushService$The: PushService$The(cn.bmob.push.lib.service.PushService)
+cn.bmob.push.lib.service.The
+cn.bmob.push.lib.service.The: a.but au
+cn.bmob.push.lib.service.The: android.content.Context av
+cn.bmob.push.lib.service.The: cn.bmob.push.lib.service.tongue aw
+cn.bmob.push.lib.service.The: long ax
+cn.bmob.push.lib.service.The: int Code(a.breaks)
+cn.bmob.push.lib.service.The: The(android.content.Context)
+cn.bmob.push.lib.service.The: void Code(cn.bmob.push.lib.service.tongue)
+cn.bmob.push.lib.service.The: void g()
+cn.bmob.push.lib.service.The: void close()
+cn.bmob.push.lib.service.The: boolean h()
+cn.bmob.push.lib.service.The: a.but Code(cn.bmob.push.lib.service.The)
+cn.bmob.push.lib.service.The: cn.bmob.push.lib.service.tongue V(cn.bmob.push.lib.service.The)
+cn.bmob.push.lib.service.The: The()
+cn.bmob.push.lib.service.The$1
+cn.bmob.push.lib.service.The$1: cn.bmob.push.lib.service.The ay
+cn.bmob.push.lib.service.The$1: The$1(cn.bmob.push.lib.service.The)
+cn.bmob.push.lib.service.The$1: void V(int)
+cn.bmob.push.lib.service.The$1: void Code(java.lang.String)
+cn.bmob.push.lib.service.boneless
+cn.bmob.push.lib.service.boneless: void Code(android.os.Bundle)
+cn.bmob.push.lib.service.boneless$The
+cn.bmob.push.lib.service.boneless$The: boneless$The()
+cn.bmob.push.lib.service.boneless$The: cn.bmob.push.lib.service.boneless V(android.os.IBinder)
+cn.bmob.push.lib.service.boneless$The: android.os.IBinder asBinder()
+cn.bmob.push.lib.service.boneless$The: boolean onTransact(int,android.os.Parcel,android.os.Parcel,int)
+cn.bmob.push.lib.service.boneless$The$The
+cn.bmob.push.lib.service.boneless$The$The: android.os.IBinder aA
+cn.bmob.push.lib.service.boneless$The$The: boneless$The$The(android.os.IBinder)
+cn.bmob.push.lib.service.boneless$The$The: android.os.IBinder asBinder()
+cn.bmob.push.lib.service.boneless$The$The: void Code(android.os.Bundle)
+cn.bmob.push.lib.service.but
+cn.bmob.push.lib.service.but: cn.bmob.push.lib.service.PushService az
+cn.bmob.push.lib.service.but: but(cn.bmob.push.lib.service.PushService)
+cn.bmob.push.lib.service.but: void update(java.util.Observable,java.lang.Object)
+cn.bmob.push.lib.service.is
+cn.bmob.push.lib.service.is: void Code(android.os.Bundle,cn.bmob.push.lib.service.boneless)
+cn.bmob.push.lib.service.is: void V(android.os.Bundle,cn.bmob.push.lib.service.boneless)
+cn.bmob.push.lib.service.is: int V(android.os.Bundle)
+cn.bmob.push.lib.service.is$The
+cn.bmob.push.lib.service.is$The: is$The()
+cn.bmob.push.lib.service.is$The: cn.bmob.push.lib.service.is Code(android.os.IBinder)
+cn.bmob.push.lib.service.is$The: android.os.IBinder asBinder()
+cn.bmob.push.lib.service.is$The: boolean onTransact(int,android.os.Parcel,android.os.Parcel,int)
+cn.bmob.push.lib.service.is$The$The
+cn.bmob.push.lib.service.is$The$The: android.os.IBinder aA
+cn.bmob.push.lib.service.is$The$The: is$The$The(android.os.IBinder)
+cn.bmob.push.lib.service.is$The$The: android.os.IBinder asBinder()
+cn.bmob.push.lib.service.is$The$The: void Code(android.os.Bundle,cn.bmob.push.lib.service.boneless)
+cn.bmob.push.lib.service.is$The$The: void V(android.os.Bundle,cn.bmob.push.lib.service.boneless)
+cn.bmob.push.lib.service.is$The$The: int V(android.os.Bundle)
+cn.bmob.push.lib.service.it
+cn.bmob.push.lib.service.it: cn.bmob.push.lib.service.PushService az
+cn.bmob.push.lib.service.it: it(cn.bmob.push.lib.service.PushService)
+cn.bmob.push.lib.service.it: int V(android.os.Bundle)
+cn.bmob.push.lib.service.it: void Code(android.os.Bundle,cn.bmob.push.lib.service.boneless)
+cn.bmob.push.lib.service.it: void V(android.os.Bundle,cn.bmob.push.lib.service.boneless)
+cn.bmob.push.lib.service.tongue
+cn.bmob.push.lib.service.tongue: cn.bmob.push.lib.service.PushService az
+cn.bmob.push.lib.service.tongue: void B(java.lang.Object)
+cn.bmob.push.lib.service.tongue: tongue(cn.bmob.push.lib.service.PushService)
+cn.bmob.push.lib.service.tongue: tongue()
+cn.bmob.push.lib.service.tongue: boolean V(android.content.Context)
+cn.bmob.push.tongue
+cn.bmob.push.tongue: cn.bmob.push.The D
+cn.bmob.push.tongue: tongue(cn.bmob.push.The)
+cn.bmob.push.tongue: void onServiceDisconnected(android.content.ComponentName)
+cn.bmob.push.tongue: void onServiceConnected(android.content.ComponentName,android.os.IBinder)
+cn.bmob.v3.AsyncCustomEndpoints
+cn.bmob.v3.AsyncCustomEndpoints: a.thing rApi$6fc396a8
+cn.bmob.v3.AsyncCustomEndpoints: org.json.JSONObject params
+cn.bmob.v3.AsyncCustomEndpoints: AsyncCustomEndpoints()
+cn.bmob.v3.AsyncCustomEndpoints: void callEndpoint(android.content.Context,java.lang.String,cn.bmob.v3.listener.CloudCodeListener)
+cn.bmob.v3.AsyncCustomEndpoints: void callEndpoint(android.content.Context,java.lang.String,org.json.JSONObject,cn.bmob.v3.listener.CloudCodeListener)
+cn.bmob.v3.AsyncCustomEndpoints$1
+cn.bmob.v3.AsyncCustomEndpoints$1: cn.bmob.v3.listener.CloudCodeListener Code
+cn.bmob.v3.AsyncCustomEndpoints$1: AsyncCustomEndpoints$1(cn.bmob.v3.AsyncCustomEndpoints,cn.bmob.v3.listener.CloudCodeListener)
+cn.bmob.v3.AsyncCustomEndpoints$1: void onSuccess(j.madness)
+cn.bmob.v3.AsyncCustomEndpoints$1: void onFailure(int,java.lang.String)
+cn.bmob.v3.Bmob
+cn.bmob.v3.Bmob: java.lang.String TAG
+cn.bmob.v3.Bmob: b.This spUtil$1853ce08
+cn.bmob.v3.Bmob: void <clinit>()
+cn.bmob.v3.Bmob: Bmob()
+cn.bmob.v3.Bmob: void initialize(android.content.Context,java.lang.String)
+cn.bmob.v3.Bmob: void getServerTime(android.content.Context,cn.bmob.v3.listener.GetServerTimeListener)
+cn.bmob.v3.Bmob$1
+cn.bmob.v3.Bmob$1: cn.bmob.v3.listener.GetServerTimeListener V
+cn.bmob.v3.Bmob$1: Bmob$1(cn.bmob.v3.listener.GetServerTimeListener)
+cn.bmob.v3.Bmob$1: void onSuccess(j.madness)
+cn.bmob.v3.Bmob$1: void onFailure(int,java.lang.String)
+cn.bmob.v3.BmobACL
+cn.bmob.v3.BmobACL: long serialVersionUID
+cn.bmob.v3.BmobACL: java.util.Map I
+cn.bmob.v3.BmobACL: BmobACL()
+cn.bmob.v3.BmobACL: java.util.Map getAcl()
+cn.bmob.v3.BmobACL: void Code(java.lang.String,java.lang.String,boolean)
+cn.bmob.v3.BmobACL: void setReadAccess(java.lang.String,boolean)
+cn.bmob.v3.BmobACL: void setReadAccess(cn.bmob.v3.BmobUser,boolean)
+cn.bmob.v3.BmobACL: void setWriteAccess(java.lang.String,boolean)
+cn.bmob.v3.BmobACL: void setWriteAccess(cn.bmob.v3.BmobUser,boolean)
+cn.bmob.v3.BmobACL: void setRoleReadAccess(java.lang.String,boolean)
+cn.bmob.v3.BmobACL: void setRoleReadAccess(cn.bmob.v3.BmobRole,boolean)
+cn.bmob.v3.BmobACL: void setRoleWriteAccess(java.lang.String,boolean)
+cn.bmob.v3.BmobACL: void setRoleWriteAccess(cn.bmob.v3.BmobRole,boolean)
+cn.bmob.v3.BmobACL: void setPublicReadAccess(boolean)
+cn.bmob.v3.BmobACL: void setPublicWriteAccess(boolean)
+cn.bmob.v3.BmobInstallation
+cn.bmob.v3.BmobInstallation: long serialVersionUID
+cn.bmob.v3.BmobInstallation: java.lang.String deviceType
+cn.bmob.v3.BmobInstallation: java.util.List channels
+cn.bmob.v3.BmobInstallation: java.lang.String installationId
+cn.bmob.v3.BmobInstallation: java.lang.String timeZone
+cn.bmob.v3.BmobInstallation: java.lang.String deviceToken
+cn.bmob.v3.BmobInstallation: android.content.Context mContext
+cn.bmob.v3.BmobInstallation: boolean subOrUnsub
+cn.bmob.v3.BmobInstallation: void <clinit>()
+cn.bmob.v3.BmobInstallation: BmobInstallation(android.content.Context)
+cn.bmob.v3.BmobInstallation: java.lang.String getTableName()
+cn.bmob.v3.BmobInstallation: cn.bmob.v3.BmobInstallation getCurrentInstallation(android.content.Context)
+cn.bmob.v3.BmobInstallation: cn.bmob.v3.BmobQuery getQuery()
+cn.bmob.v3.BmobInstallation: void save()
+cn.bmob.v3.BmobInstallation: java.lang.String getDeviceToken()
+cn.bmob.v3.BmobInstallation: void setDeviceToken(java.lang.String)
+cn.bmob.v3.BmobInstallation: java.lang.String getDeviceType()
+cn.bmob.v3.BmobInstallation: void setDeviceType(java.lang.String)
+cn.bmob.v3.BmobInstallation: java.util.List getChannels()
+cn.bmob.v3.BmobInstallation: void setChannels(java.util.List)
+cn.bmob.v3.BmobInstallation: java.lang.String getInstallationId()
+cn.bmob.v3.BmobInstallation: void setInstallationId(java.lang.String)
+cn.bmob.v3.BmobInstallation: java.lang.String getTimeZone()
+cn.bmob.v3.BmobInstallation: void setTimeZone(java.lang.String)
+cn.bmob.v3.BmobInstallation: void subscribe(java.lang.String)
+cn.bmob.v3.BmobInstallation: void unsubscribe(java.lang.String)
+cn.bmob.v3.BmobInstallation: java.lang.String getInstallationId(android.content.Context)
+cn.bmob.v3.BmobInstallation: void Code(cn.bmob.v3.BmobInstallation,android.content.Context)
+cn.bmob.v3.BmobInstallation$1
+cn.bmob.v3.BmobInstallation$1: cn.bmob.v3.BmobInstallation Z
+cn.bmob.v3.BmobInstallation$1: java.util.List B
+cn.bmob.v3.BmobInstallation$1: boolean C
+cn.bmob.v3.BmobInstallation$1: android.content.Context S
+cn.bmob.v3.BmobInstallation$1: BmobInstallation$1(cn.bmob.v3.BmobInstallation,java.util.List,boolean,android.content.Context)
+cn.bmob.v3.BmobInstallation$1: void onSuccess(java.util.List)
+cn.bmob.v3.BmobInstallation$1: void onError(int,java.lang.String)
+cn.bmob.v3.BmobInstallation$1$1
+cn.bmob.v3.BmobInstallation$1$1: BmobInstallation$1$1(cn.bmob.v3.BmobInstallation$1)
+cn.bmob.v3.BmobInstallation$1$1: void onSuccess()
+cn.bmob.v3.BmobInstallation$1$1: void onFailure(int,java.lang.String)
+cn.bmob.v3.BmobInstallation$2
+cn.bmob.v3.BmobInstallation$2: BmobInstallation$2(cn.bmob.v3.BmobInstallation)
+cn.bmob.v3.BmobInstallation$2: void onSuccess()
+cn.bmob.v3.BmobInstallation$2: void onFailure(int,java.lang.String)
+cn.bmob.v3.BmobObject
+cn.bmob.v3.BmobObject: long serialVersionUID
+cn.bmob.v3.BmobObject: java.lang.String objectId
+cn.bmob.v3.BmobObject: java.lang.String createdAt
+cn.bmob.v3.BmobObject: java.lang.String updatedAt
+cn.bmob.v3.BmobObject: cn.bmob.v3.BmobACL ACL
+cn.bmob.v3.BmobObject: java.lang.String _c_
+cn.bmob.v3.BmobObject: java.util.List increments
+cn.bmob.v3.BmobObject: org.json.JSONObject data
+cn.bmob.v3.BmobObject: void <clinit>()
+cn.bmob.v3.BmobObject: BmobObject()
+cn.bmob.v3.BmobObject: BmobObject(java.lang.String)
+cn.bmob.v3.BmobObject: void setTableName(java.lang.String)
+cn.bmob.v3.BmobObject: java.lang.String getTableName()
+cn.bmob.v3.BmobObject: java.lang.String getObjectId()
+cn.bmob.v3.BmobObject: void setObjectId(java.lang.String)
+cn.bmob.v3.BmobObject: java.lang.String getCreatedAt()
+cn.bmob.v3.BmobObject: void setCreatedAt(java.lang.String)
+cn.bmob.v3.BmobObject: java.lang.String getUpdatedAt()
+cn.bmob.v3.BmobObject: void setUpdatedAt(java.lang.String)
+cn.bmob.v3.BmobObject: cn.bmob.v3.BmobACL getACL()
+cn.bmob.v3.BmobObject: void setACL(cn.bmob.v3.BmobACL)
+cn.bmob.v3.BmobObject: void increment(java.lang.String)
+cn.bmob.v3.BmobObject: void increment(java.lang.String,java.lang.Number)
+cn.bmob.v3.BmobObject: org.json.JSONObject disposePointerType(org.json.JSONObject)
+cn.bmob.v3.BmobObject: void save(android.content.Context)
+cn.bmob.v3.BmobObject: void save(android.content.Context,cn.bmob.v3.listener.SaveListener)
+cn.bmob.v3.BmobObject: org.json.JSONObject gjData()
+cn.bmob.v3.BmobObject: void put(java.lang.String,java.lang.Object)
+cn.bmob.v3.BmobObject: void insertObject(android.content.Context)
+cn.bmob.v3.BmobObject: void insertObject(android.content.Context,cn.bmob.v3.listener.SaveListener)
+cn.bmob.v3.BmobObject: void insertBatch(android.content.Context,java.util.List,cn.bmob.v3.listener.SaveListener)
+cn.bmob.v3.BmobObject: void updateBatch(android.content.Context,java.util.List,cn.bmob.v3.listener.UpdateListener)
+cn.bmob.v3.BmobObject: void deleteBatch(android.content.Context,java.util.List,cn.bmob.v3.listener.DeleteListener)
+cn.bmob.v3.BmobObject: void Code(android.content.Context,java.util.List,java.lang.String,cn.bmob.v3.listener.XListener)
+cn.bmob.v3.BmobObject: void update(android.content.Context)
+cn.bmob.v3.BmobObject: void update(android.content.Context,cn.bmob.v3.listener.UpdateListener)
+cn.bmob.v3.BmobObject: void update(android.content.Context,java.lang.String,cn.bmob.v3.listener.UpdateListener)
+cn.bmob.v3.BmobObject: void updateObject(android.content.Context,cn.bmob.v3.listener.UpdateListener)
+cn.bmob.v3.BmobObject: void updateObject(android.content.Context,java.lang.String,cn.bmob.v3.listener.UpdateListener)
+cn.bmob.v3.BmobObject: void delete(android.content.Context)
+cn.bmob.v3.BmobObject: void delete(android.content.Context,cn.bmob.v3.listener.DeleteListener)
+cn.bmob.v3.BmobObject: void delete(android.content.Context,java.lang.String,cn.bmob.v3.listener.DeleteListener)
+cn.bmob.v3.BmobObject: void deleteObject(android.content.Context,cn.bmob.v3.listener.DeleteListener)
+cn.bmob.v3.BmobObject: void deleteObject(android.content.Context,java.lang.String,cn.bmob.v3.listener.DeleteListener)
+cn.bmob.v3.BmobObject$1
+cn.bmob.v3.BmobObject$1: cn.bmob.v3.BmobObject F
+cn.bmob.v3.BmobObject$1: cn.bmob.v3.listener.SaveListener D
+cn.bmob.v3.BmobObject$1: BmobObject$1(cn.bmob.v3.BmobObject,cn.bmob.v3.listener.SaveListener)
+cn.bmob.v3.BmobObject$1: void onSuccess(j.madness)
+cn.bmob.v3.BmobObject$1: void onFailure(int,java.lang.String)
+cn.bmob.v3.BmobObject$2
+cn.bmob.v3.BmobObject$2: cn.bmob.v3.BmobObject F
+cn.bmob.v3.BmobObject$2: cn.bmob.v3.listener.SaveListener D
+cn.bmob.v3.BmobObject$2: BmobObject$2(cn.bmob.v3.BmobObject,cn.bmob.v3.listener.SaveListener)
+cn.bmob.v3.BmobObject$2: void onSuccess(j.madness)
+cn.bmob.v3.BmobObject$2: void onFailure(int,java.lang.String)
+cn.bmob.v3.BmobObject$3
+cn.bmob.v3.BmobObject$3: cn.bmob.v3.listener.SaveListener L
+cn.bmob.v3.BmobObject$3: BmobObject$3(cn.bmob.v3.BmobObject,cn.bmob.v3.listener.SaveListener)
+cn.bmob.v3.BmobObject$3: void onSuccess(j.madness)
+cn.bmob.v3.BmobObject$3: void onFailure(int,java.lang.String)
+cn.bmob.v3.BmobObject$4
+cn.bmob.v3.BmobObject$4: cn.bmob.v3.listener.UpdateListener b
+cn.bmob.v3.BmobObject$4: BmobObject$4(cn.bmob.v3.BmobObject,cn.bmob.v3.listener.UpdateListener)
+cn.bmob.v3.BmobObject$4: void onSuccess(j.madness)
+cn.bmob.v3.BmobObject$4: void onFailure(int,java.lang.String)
+cn.bmob.v3.BmobObject$5
+cn.bmob.v3.BmobObject$5: cn.bmob.v3.listener.DeleteListener c
+cn.bmob.v3.BmobObject$5: BmobObject$5(cn.bmob.v3.BmobObject,cn.bmob.v3.listener.DeleteListener)
+cn.bmob.v3.BmobObject$5: void onSuccess(j.madness)
+cn.bmob.v3.BmobObject$5: void onFailure(int,java.lang.String)
+cn.bmob.v3.BmobObject$6
+cn.bmob.v3.BmobObject$6: cn.bmob.v3.BmobObject F
+cn.bmob.v3.BmobObject$6: cn.bmob.v3.listener.UpdateListener b
+cn.bmob.v3.BmobObject$6: BmobObject$6(cn.bmob.v3.BmobObject,cn.bmob.v3.listener.UpdateListener)
+cn.bmob.v3.BmobObject$6: void onSuccess(j.madness)
+cn.bmob.v3.BmobObject$6: void onFailure(int,java.lang.String)
+cn.bmob.v3.BmobObject$7
+cn.bmob.v3.BmobObject$7: cn.bmob.v3.BmobObject F
+cn.bmob.v3.BmobObject$7: cn.bmob.v3.listener.UpdateListener b
+cn.bmob.v3.BmobObject$7: BmobObject$7(cn.bmob.v3.BmobObject,cn.bmob.v3.listener.UpdateListener)
+cn.bmob.v3.BmobObject$7: void onSuccess(j.madness)
+cn.bmob.v3.BmobObject$7: void onFailure(int,java.lang.String)
+cn.bmob.v3.BmobObject$8
+cn.bmob.v3.BmobObject$8: cn.bmob.v3.listener.DeleteListener c
+cn.bmob.v3.BmobObject$8: BmobObject$8(cn.bmob.v3.BmobObject,cn.bmob.v3.listener.DeleteListener)
+cn.bmob.v3.BmobObject$8: void onSuccess(j.madness)
+cn.bmob.v3.BmobObject$8: void onFailure(int,java.lang.String)
+cn.bmob.v3.BmobObject$9
+cn.bmob.v3.BmobObject$9: cn.bmob.v3.listener.DeleteListener c
+cn.bmob.v3.BmobObject$9: BmobObject$9(cn.bmob.v3.BmobObject,cn.bmob.v3.listener.DeleteListener)
+cn.bmob.v3.BmobObject$9: void onSuccess(j.madness)
+cn.bmob.v3.BmobObject$9: void onFailure(int,java.lang.String)
+cn.bmob.v3.BmobPushManager
+cn.bmob.v3.BmobPushManager: android.content.Context mContext
+cn.bmob.v3.BmobPushManager: cn.bmob.v3.BmobQuery d
+cn.bmob.v3.BmobPushManager: c.This e
+cn.bmob.v3.BmobPushManager: BmobPushManager(android.content.Context)
+cn.bmob.v3.BmobPushManager: void pushMessage(java.lang.String)
+cn.bmob.v3.BmobPushManager: void pushMessage(java.lang.String,cn.bmob.v3.listener.PushListener)
+cn.bmob.v3.BmobPushManager: void pushMessage(org.json.JSONObject)
+cn.bmob.v3.BmobPushManager: void pushMessage(org.json.JSONObject,cn.bmob.v3.listener.PushListener)
+cn.bmob.v3.BmobPushManager: void pushMessageAll(java.lang.String)
+cn.bmob.v3.BmobPushManager: void pushMessageAll(org.json.JSONObject)
+cn.bmob.v3.BmobPushManager: void pushMessageAll(java.lang.String,cn.bmob.v3.listener.PushListener)
+cn.bmob.v3.BmobPushManager: void pushMessageAll(org.json.JSONObject,cn.bmob.v3.listener.PushListener)
+cn.bmob.v3.BmobPushManager: cn.bmob.v3.BmobQuery getQuery()
+cn.bmob.v3.BmobPushManager: void setQuery(cn.bmob.v3.BmobQuery)
+cn.bmob.v3.BmobQuery
+cn.bmob.v3.BmobQuery: cn.bmob.v3.requestmanager.thing requestCommand
+cn.bmob.v3.BmobQuery: a.thing rApi$6fc396a8
+cn.bmob.v3.BmobQuery: org.json.JSONObject params
+cn.bmob.v3.BmobQuery: org.json.JSONObject f
+cn.bmob.v3.BmobQuery: org.json.JSONObject data
+cn.bmob.v3.BmobQuery: java.lang.String g
+cn.bmob.v3.BmobQuery: java.lang.Integer h
+cn.bmob.v3.BmobQuery: java.lang.Integer i
+cn.bmob.v3.BmobQuery: java.lang.String j
+cn.bmob.v3.BmobQuery: java.lang.String k
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery$CachePolicy l
+cn.bmob.v3.BmobQuery: long m
+cn.bmob.v3.BmobQuery: java.lang.String _c_
+cn.bmob.v3.BmobQuery: int[] n
+cn.bmob.v3.BmobQuery: BmobQuery()
+cn.bmob.v3.BmobQuery: BmobQuery(java.lang.String)
+cn.bmob.v3.BmobQuery: void findObjects(android.content.Context,cn.bmob.v3.listener.FindCallback)
+cn.bmob.v3.BmobQuery: void getObject(android.content.Context,java.lang.String,cn.bmob.v3.listener.GetCallback)
+cn.bmob.v3.BmobQuery: org.json.JSONObject getWhere()
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addWhereLessThan(java.lang.String,java.lang.Object)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addWhereLessThanOrEqualTo(java.lang.String,java.lang.Object)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addWhereGreaterThan(java.lang.String,java.lang.Object)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addWhereGreaterThanOrEqualTo(java.lang.String,java.lang.Object)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addWhereEqualTo(java.lang.String,java.lang.Object)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addWhereNotEqualTo(java.lang.String,java.lang.Object)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addWhereContainedIn(java.lang.String,java.util.Collection)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addWhereNotContainedIn(java.lang.String,java.util.Collection)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addWhereMatches(java.lang.String,java.lang.String)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addWhereContains(java.lang.String,java.lang.String)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addWhereStartsWith(java.lang.String,java.lang.String)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addWhereEndsWith(java.lang.String,java.lang.String)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addWhereNear(java.lang.String,cn.bmob.v3.datatype.BmobGeoPoint)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addWhereWithinMiles(java.lang.String,cn.bmob.v3.datatype.BmobGeoPoint,double)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addWhereWithinKilometers(java.lang.String,cn.bmob.v3.datatype.BmobGeoPoint,double)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addWhereWithinRadians(java.lang.String,cn.bmob.v3.datatype.BmobGeoPoint,double)
+cn.bmob.v3.BmobQuery: void Code(java.lang.String,java.lang.String,cn.bmob.v3.datatype.BmobGeoPoint,double)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addWhereWithinGeoBox(java.lang.String,cn.bmob.v3.datatype.BmobGeoPoint,cn.bmob.v3.datatype.BmobGeoPoint)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addWhereExists(java.lang.String)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addWhereDoesNotExists(java.lang.String)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addWhereRelatedTo(java.lang.String,cn.bmob.v3.datatype.BmobPointer)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addWhereMatchesQuery(java.lang.String,java.lang.String,cn.bmob.v3.BmobQuery)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addWhereDoesNotMatchQuery(java.lang.String,java.lang.String,cn.bmob.v3.BmobQuery)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery addQueryKeys(java.lang.String)
+cn.bmob.v3.BmobQuery: void setLimit(int)
+cn.bmob.v3.BmobQuery: int getLimit()
+cn.bmob.v3.BmobQuery: void setSkip(int)
+cn.bmob.v3.BmobQuery: int getSkip()
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery order(java.lang.String)
+cn.bmob.v3.BmobQuery: void include(java.lang.String)
+cn.bmob.v3.BmobQuery: void Code(java.lang.String,java.lang.String,java.lang.Object)
+cn.bmob.v3.BmobQuery: void Code(android.content.Context,cn.bmob.v3.BmobQuery$CachePolicy,java.lang.Class,cn.bmob.v3.listener.FindListener)
+cn.bmob.v3.BmobQuery: void Code(android.content.Context,cn.bmob.v3.BmobQuery$CachePolicy,java.lang.Class,cn.bmob.v3.listener.GetListener)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery or(java.util.List)
+cn.bmob.v3.BmobQuery: void findObjects(android.content.Context,cn.bmob.v3.listener.FindListener)
+cn.bmob.v3.BmobQuery: void getObject(android.content.Context,java.lang.String,cn.bmob.v3.listener.GetListener)
+cn.bmob.v3.BmobQuery: void count(android.content.Context,java.lang.Class,cn.bmob.v3.listener.CountListener)
+cn.bmob.v3.BmobQuery: void setCachePolicy(cn.bmob.v3.BmobQuery$CachePolicy)
+cn.bmob.v3.BmobQuery: cn.bmob.v3.BmobQuery$CachePolicy getCachePolicy()
+cn.bmob.v3.BmobQuery: void setMaxCacheAge(long)
+cn.bmob.v3.BmobQuery: long getMaxCacheAge()
+cn.bmob.v3.BmobQuery: boolean hasCachedResult(android.content.Context)
+cn.bmob.v3.BmobQuery: void clearCachedResult(android.content.Context)
+cn.bmob.v3.BmobQuery: void clearAllCachedResults(android.content.Context)
+cn.bmob.v3.BmobQuery: void Code(cn.bmob.v3.BmobQuery,android.content.Context,cn.bmob.v3.BmobQuery$CachePolicy,java.lang.Class,cn.bmob.v3.listener.FindListener)
+cn.bmob.v3.BmobQuery: int[] Code()
+cn.bmob.v3.BmobQuery: void Code(cn.bmob.v3.BmobQuery,android.content.Context,cn.bmob.v3.BmobQuery$CachePolicy,java.lang.Class,cn.bmob.v3.listener.GetListener)
+cn.bmob.v3.BmobQuery$1
+cn.bmob.v3.BmobQuery$1: cn.bmob.v3.listener.FindCallback o
+cn.bmob.v3.BmobQuery$1: BmobQuery$1(cn.bmob.v3.BmobQuery,cn.bmob.v3.listener.FindCallback)
+cn.bmob.v3.BmobQuery$1: void onSuccess(j.madness)
+cn.bmob.v3.BmobQuery$1: void onFailure(int,java.lang.String)
+cn.bmob.v3.BmobQuery$2
+cn.bmob.v3.BmobQuery$2: cn.bmob.v3.listener.GetCallback p
+cn.bmob.v3.BmobQuery$2: BmobQuery$2(cn.bmob.v3.BmobQuery,cn.bmob.v3.listener.GetCallback)
+cn.bmob.v3.BmobQuery$2: void onSuccess(j.madness)
+cn.bmob.v3.BmobQuery$2: void onFailure(int,java.lang.String)
+cn.bmob.v3.BmobQuery$3
+cn.bmob.v3.BmobQuery$3: cn.bmob.v3.BmobQuery q
+cn.bmob.v3.BmobQuery$3: cn.bmob.v3.listener.FindListener r
+cn.bmob.v3.BmobQuery$3: android.content.Context S
+cn.bmob.v3.BmobQuery$3: java.lang.Class s
+cn.bmob.v3.BmobQuery$3: BmobQuery$3(cn.bmob.v3.BmobQuery,cn.bmob.v3.listener.FindListener,android.content.Context,java.lang.Class)
+cn.bmob.v3.BmobQuery$3: void onSuccess(java.util.List)
+cn.bmob.v3.BmobQuery$3: void onError(int,java.lang.String)
+cn.bmob.v3.BmobQuery$4
+cn.bmob.v3.BmobQuery$4: cn.bmob.v3.BmobQuery q
+cn.bmob.v3.BmobQuery$4: cn.bmob.v3.listener.GetListener t
+cn.bmob.v3.BmobQuery$4: android.content.Context S
+cn.bmob.v3.BmobQuery$4: java.lang.Class s
+cn.bmob.v3.BmobQuery$4: BmobQuery$4(cn.bmob.v3.BmobQuery,cn.bmob.v3.listener.GetListener,android.content.Context,java.lang.Class)
+cn.bmob.v3.BmobQuery$4: void onSuccess(java.lang.Object)
+cn.bmob.v3.BmobQuery$4: void onFailure(int,java.lang.String)
+cn.bmob.v3.BmobQuery$5
+cn.bmob.v3.BmobQuery$5: cn.bmob.v3.listener.CountListener u
+cn.bmob.v3.BmobQuery$5: BmobQuery$5(cn.bmob.v3.BmobQuery,cn.bmob.v3.listener.CountListener)
+cn.bmob.v3.BmobQuery$5: void onSuccess(j.madness)
+cn.bmob.v3.BmobQuery$5: void onFailure(int,java.lang.String)
+cn.bmob.v3.BmobQuery$CachePolicy
+cn.bmob.v3.BmobQuery$CachePolicy: cn.bmob.v3.BmobQuery$CachePolicy IGNORE_CACHE
+cn.bmob.v3.BmobQuery$CachePolicy: cn.bmob.v3.BmobQuery$CachePolicy CACHE_ONLY
+cn.bmob.v3.BmobQuery$CachePolicy: cn.bmob.v3.BmobQuery$CachePolicy NETWORK_ONLY
+cn.bmob.v3.BmobQuery$CachePolicy: cn.bmob.v3.BmobQuery$CachePolicy CACHE_ELSE_NETWORK
+cn.bmob.v3.BmobQuery$CachePolicy: cn.bmob.v3.BmobQuery$CachePolicy NETWORK_ELSE_CACHE
+cn.bmob.v3.BmobQuery$CachePolicy: cn.bmob.v3.BmobQuery$CachePolicy CACHE_THEN_NETWORK
+cn.bmob.v3.BmobQuery$CachePolicy: cn.bmob.v3.BmobQuery$CachePolicy[] v
+cn.bmob.v3.BmobQuery$CachePolicy: void <clinit>()
+cn.bmob.v3.BmobQuery$CachePolicy: BmobQuery$CachePolicy(java.lang.String,int)
+cn.bmob.v3.BmobQuery$CachePolicy: cn.bmob.v3.BmobQuery$CachePolicy[] values()
+cn.bmob.v3.BmobQuery$CachePolicy: cn.bmob.v3.BmobQuery$CachePolicy valueOf(java.lang.String)
+cn.bmob.v3.BmobRole
+cn.bmob.v3.BmobRole: long serialVersionUID
+cn.bmob.v3.BmobRole: java.lang.String tableName
+cn.bmob.v3.BmobRole: java.lang.String name
+cn.bmob.v3.BmobRole: cn.bmob.v3.datatype.BmobRelation w
+cn.bmob.v3.BmobRole: cn.bmob.v3.datatype.BmobRelation x
+cn.bmob.v3.BmobRole: void <clinit>()
+cn.bmob.v3.BmobRole: java.lang.String getTableName()
+cn.bmob.v3.BmobRole: BmobRole(java.lang.String)
+cn.bmob.v3.BmobRole: java.lang.String getName()
+cn.bmob.v3.BmobRole: void setName(java.lang.String)
+cn.bmob.v3.BmobRole: cn.bmob.v3.datatype.BmobRelation getRoles()
+cn.bmob.v3.BmobRole: cn.bmob.v3.datatype.BmobRelation getUsers()
+cn.bmob.v3.BmobUser
+cn.bmob.v3.BmobUser: long serialVersionUID
+cn.bmob.v3.BmobUser: java.lang.String username
+cn.bmob.v3.BmobUser: java.lang.String password
+cn.bmob.v3.BmobUser: java.lang.String email
+cn.bmob.v3.BmobUser: java.lang.Boolean emailVerified
+cn.bmob.v3.BmobUser: java.lang.String sessionToken
+cn.bmob.v3.BmobUser: org.json.JSONObject current
+cn.bmob.v3.BmobUser: BmobUser()
+cn.bmob.v3.BmobUser: java.lang.String getTableName()
+cn.bmob.v3.BmobUser: java.lang.String getUsername()
+cn.bmob.v3.BmobUser: void setUsername(java.lang.String)
+cn.bmob.v3.BmobUser: java.lang.String getPassword()
+cn.bmob.v3.BmobUser: void setPassword(java.lang.String)
+cn.bmob.v3.BmobUser: java.lang.String getEmail()
+cn.bmob.v3.BmobUser: void setEmail(java.lang.String)
+cn.bmob.v3.BmobUser: java.lang.Boolean getEmailVerified()
+cn.bmob.v3.BmobUser: void setEmailVerified(java.lang.Boolean)
+cn.bmob.v3.BmobUser: java.lang.String getSessionToken()
+cn.bmob.v3.BmobUser: void setSessionToken(java.lang.String)
+cn.bmob.v3.BmobUser: void signUp(android.content.Context,cn.bmob.v3.listener.SaveListener)
+cn.bmob.v3.BmobUser: void login(android.content.Context,cn.bmob.v3.listener.SaveListener)
+cn.bmob.v3.BmobUser: void update(android.content.Context)
+cn.bmob.v3.BmobUser: void update(android.content.Context,cn.bmob.v3.listener.UpdateListener)
+cn.bmob.v3.BmobUser: void update(android.content.Context,java.lang.String,cn.bmob.v3.listener.UpdateListener)
+cn.bmob.v3.BmobUser: void weiboLogin(android.content.Context,java.lang.String,java.lang.String,cn.bmob.v3.listener.OtherLoginListener)
+cn.bmob.v3.BmobUser: void qqLogin(android.content.Context,java.lang.String,cn.bmob.v3.listener.OtherLoginListener)
+cn.bmob.v3.BmobUser: void asscoiateWithAuthDate(android.content.Context,cn.bmob.v3.BmobUser,org.json.JSONObject,cn.bmob.v3.listener.UpdateListener)
+cn.bmob.v3.BmobUser: void dissociateAuthData(android.content.Context,cn.bmob.v3.BmobUser,cn.bmob.v3.listener.UpdateListener)
+cn.bmob.v3.BmobUser: void requestEmailVerify(android.content.Context,java.lang.String,cn.bmob.v3.listener.EmailVerifyListener)
+cn.bmob.v3.BmobUser: void resetPassword(android.content.Context,java.lang.String,cn.bmob.v3.listener.ResetPasswordListener)
+cn.bmob.v3.BmobUser: void resetPasswordByPhone(android.content.Context,java.lang.String,cn.bmob.v3.listener.ResetPasswordListener)
+cn.bmob.v3.BmobUser: void resetPassword(android.content.Context,java.lang.String,java.lang.String,java.lang.String,cn.bmob.v3.listener.ResetPasswordListener)
+cn.bmob.v3.BmobUser: java.lang.Object getCurrentUser(android.content.Context,java.lang.Class)
+cn.bmob.v3.BmobUser: cn.bmob.v3.BmobUser getCurrentUser(android.content.Context)
+cn.bmob.v3.BmobUser: void logOut(android.content.Context)
+cn.bmob.v3.BmobUser: void Code(cn.bmob.v3.BmobUser,android.content.Context)
+cn.bmob.v3.BmobUser$1
+cn.bmob.v3.BmobUser$1: cn.bmob.v3.BmobUser y
+cn.bmob.v3.BmobUser$1: android.content.Context S
+cn.bmob.v3.BmobUser$1: cn.bmob.v3.listener.SaveListener L
+cn.bmob.v3.BmobUser$1: BmobUser$1(cn.bmob.v3.BmobUser,android.content.Context,cn.bmob.v3.listener.SaveListener)
+cn.bmob.v3.BmobUser$1: void onSuccess(j.madness)
+cn.bmob.v3.BmobUser$1: void onFailure(int,java.lang.String)
+cn.bmob.v3.BmobUser$2
+cn.bmob.v3.BmobUser$2: cn.bmob.v3.BmobUser y
+cn.bmob.v3.BmobUser$2: android.content.Context S
+cn.bmob.v3.BmobUser$2: cn.bmob.v3.listener.SaveListener L
+cn.bmob.v3.BmobUser$2: BmobUser$2(cn.bmob.v3.BmobUser,android.content.Context,cn.bmob.v3.listener.SaveListener)
+cn.bmob.v3.BmobUser$2: void onSuccess(j.madness)
+cn.bmob.v3.BmobUser$2: void onFailure(int,java.lang.String)
+cn.bmob.v3.BmobUser$3
+cn.bmob.v3.BmobUser$3: cn.bmob.v3.BmobUser y
+cn.bmob.v3.BmobUser$3: android.content.Context S
+cn.bmob.v3.BmobUser$3: cn.bmob.v3.listener.UpdateListener b
+cn.bmob.v3.BmobUser$3: BmobUser$3(cn.bmob.v3.BmobUser,android.content.Context,cn.bmob.v3.listener.UpdateListener)
+cn.bmob.v3.BmobUser$3: void onSuccess(j.madness)
+cn.bmob.v3.BmobUser$3: void onFailure(int,java.lang.String)
+cn.bmob.v3.BmobUser$4
+cn.bmob.v3.BmobUser$4: cn.bmob.v3.listener.UpdateListener b
+cn.bmob.v3.BmobUser$4: BmobUser$4(cn.bmob.v3.listener.UpdateListener)
+cn.bmob.v3.BmobUser$4: void onSuccess(j.madness)
+cn.bmob.v3.BmobUser$4: void onFailure(int,java.lang.String)
+cn.bmob.v3.BmobUser$5
+cn.bmob.v3.BmobUser$5: cn.bmob.v3.listener.UpdateListener b
+cn.bmob.v3.BmobUser$5: BmobUser$5(cn.bmob.v3.listener.UpdateListener)
+cn.bmob.v3.BmobUser$5: void onSuccess(j.madness)
+cn.bmob.v3.BmobUser$5: void onFailure(int,java.lang.String)
+cn.bmob.v3.Manifest
+cn.bmob.v3.Manifest: Manifest()
+cn.bmob.v3.Manifest$permission
+cn.bmob.v3.Manifest$permission: java.lang.String push
+cn.bmob.v3.Manifest$permission: Manifest$permission()
+cn.bmob.v3.datatype.BmobDate
+cn.bmob.v3.datatype.BmobDate: long serialVersionUID
+cn.bmob.v3.datatype.BmobDate: java.lang.String iso
+cn.bmob.v3.datatype.BmobDate: java.lang.String __type
+cn.bmob.v3.datatype.BmobDate: BmobDate(java.util.Date)
+cn.bmob.v3.datatype.BmobDate: java.lang.String getDate()
+cn.bmob.v3.datatype.BmobFile
+cn.bmob.v3.datatype.BmobFile: long serialVersionUID
+cn.bmob.v3.datatype.BmobFile: int maxBmobFileSize
+cn.bmob.v3.datatype.BmobFile: int maxBmobFileSize_block
+cn.bmob.v3.datatype.BmobFile: java.lang.String className
+cn.bmob.v3.datatype.BmobFile: java.io.File file
+cn.bmob.v3.datatype.BmobFile: java.lang.String filename
+cn.bmob.v3.datatype.BmobFile: java.lang.String group
+cn.bmob.v3.datatype.BmobFile: java.lang.String url
+cn.bmob.v3.datatype.BmobFile: java.lang.String __type
+cn.bmob.v3.datatype.BmobFile: i.From mImageLoader
+cn.bmob.v3.datatype.BmobFile: int cacheSize
+cn.bmob.v3.datatype.BmobFile: void <clinit>()
+cn.bmob.v3.datatype.BmobFile: BmobFile(java.lang.Class,java.io.File)
+cn.bmob.v3.datatype.BmobFile: BmobFile(java.io.File)
+cn.bmob.v3.datatype.BmobFile: void upload(android.content.Context,cn.bmob.v3.listener.UploadFileListener)
+cn.bmob.v3.datatype.BmobFile: void uploadblock(android.content.Context,cn.bmob.v3.listener.UploadFileListener)
+cn.bmob.v3.datatype.BmobFile: void delete(android.content.Context)
+cn.bmob.v3.datatype.BmobFile: void delete(android.content.Context,cn.bmob.v3.listener.DeleteListener)
+cn.bmob.v3.datatype.BmobFile: void loadImageThumbnail(android.content.Context,android.widget.ImageView,int,int)
+cn.bmob.v3.datatype.BmobFile: void loadImageThumbnail(android.content.Context,android.widget.ImageView,int,int,int)
+cn.bmob.v3.datatype.BmobFile: void loadImage(android.content.Context,android.widget.ImageView)
+cn.bmob.v3.datatype.BmobFile: void loadImage(android.content.Context,android.widget.ImageView,int,int)
+cn.bmob.v3.datatype.BmobFile: java.lang.String getUrl()
+cn.bmob.v3.datatype.BmobFile: void setUrl(java.lang.String)
+cn.bmob.v3.datatype.BmobFile: java.lang.String getFileUrl()
+cn.bmob.v3.datatype.BmobFile: java.lang.String getGroup()
+cn.bmob.v3.datatype.BmobFile: void setGroup(java.lang.String)
+cn.bmob.v3.datatype.BmobFile: java.lang.String getFilename()
+cn.bmob.v3.datatype.BmobFile: void setFilename(java.lang.String)
+cn.bmob.v3.datatype.BmobFile: void Code(cn.bmob.v3.datatype.BmobFile,java.lang.String)
+cn.bmob.v3.datatype.BmobFile: void V(cn.bmob.v3.datatype.BmobFile,java.lang.String)
+cn.bmob.v3.datatype.BmobFile$1
+cn.bmob.v3.datatype.BmobFile$1: cn.bmob.v3.datatype.BmobFile Q
+cn.bmob.v3.datatype.BmobFile$1: cn.bmob.v3.listener.UploadFileListener R
+cn.bmob.v3.datatype.BmobFile$1: BmobFile$1(cn.bmob.v3.datatype.BmobFile,cn.bmob.v3.listener.UploadFileListener)
+cn.bmob.v3.datatype.BmobFile$1: void onSuccess(j.madness)
+cn.bmob.v3.datatype.BmobFile$1: void onFailure(int,java.lang.String)
+cn.bmob.v3.datatype.BmobFile$2
+cn.bmob.v3.datatype.BmobFile$2: cn.bmob.v3.datatype.BmobFile Q
+cn.bmob.v3.datatype.BmobFile$2: cn.bmob.v3.listener.UploadFileListener R
+cn.bmob.v3.datatype.BmobFile$2: BmobFile$2(cn.bmob.v3.datatype.BmobFile,cn.bmob.v3.listener.UploadFileListener)
+cn.bmob.v3.datatype.BmobFile$2: void onSuccess(j.madness)
+cn.bmob.v3.datatype.BmobFile$2: void onFailure(int,java.lang.String)
+cn.bmob.v3.datatype.BmobFile$3
+cn.bmob.v3.datatype.BmobFile$3: cn.bmob.v3.listener.DeleteListener c
+cn.bmob.v3.datatype.BmobFile$3: BmobFile$3(cn.bmob.v3.datatype.BmobFile,cn.bmob.v3.listener.DeleteListener)
+cn.bmob.v3.datatype.BmobFile$3: void onSuccess(j.madness)
+cn.bmob.v3.datatype.BmobFile$3: void onFailure(int,java.lang.String)
+cn.bmob.v3.datatype.BmobFile$4
+cn.bmob.v3.datatype.BmobFile$4: android.widget.ImageView T
+cn.bmob.v3.datatype.BmobFile$4: BmobFile$4(cn.bmob.v3.datatype.BmobFile,android.widget.ImageView)
+cn.bmob.v3.datatype.BmobFile$4: void onSuccess(j.madness)
+cn.bmob.v3.datatype.BmobFile$4: void onFailure(int,java.lang.String)
+cn.bmob.v3.datatype.BmobFile$5
+cn.bmob.v3.datatype.BmobFile$5: android.widget.ImageView T
+cn.bmob.v3.datatype.BmobFile$5: BmobFile$5(cn.bmob.v3.datatype.BmobFile,android.widget.ImageView)
+cn.bmob.v3.datatype.BmobFile$5: void Code(h.is)
+cn.bmob.v3.datatype.BmobFile$5: void Code(i.From$of)
+cn.bmob.v3.datatype.BmobFile$6
+cn.bmob.v3.datatype.BmobFile$6: android.widget.ImageView T
+cn.bmob.v3.datatype.BmobFile$6: BmobFile$6(cn.bmob.v3.datatype.BmobFile,android.widget.ImageView)
+cn.bmob.v3.datatype.BmobFile$6: void Code(h.is)
+cn.bmob.v3.datatype.BmobFile$6: void Code(i.From$of)
+cn.bmob.v3.datatype.BmobGeoPoint
+cn.bmob.v3.datatype.BmobGeoPoint: long serialVersionUID
+cn.bmob.v3.datatype.BmobGeoPoint: double EARTH_MEAN_RADIUS_KM
+cn.bmob.v3.datatype.BmobGeoPoint: double EARTH_MEAN_RADIUS_MILE
+cn.bmob.v3.datatype.BmobGeoPoint: java.lang.Double latitude
+cn.bmob.v3.datatype.BmobGeoPoint: java.lang.Double longitude
+cn.bmob.v3.datatype.BmobGeoPoint: java.lang.String __type
+cn.bmob.v3.datatype.BmobGeoPoint: void <clinit>()
+cn.bmob.v3.datatype.BmobGeoPoint: BmobGeoPoint()
+cn.bmob.v3.datatype.BmobGeoPoint: BmobGeoPoint(double,double)
+cn.bmob.v3.datatype.BmobGeoPoint: void setLatitude(double)
+cn.bmob.v3.datatype.BmobGeoPoint: double getLatitude()
+cn.bmob.v3.datatype.BmobGeoPoint: void setLongitude(double)
+cn.bmob.v3.datatype.BmobGeoPoint: double getLongitude()
+cn.bmob.v3.datatype.BmobGeoPoint: double distanceInRadiansTo(cn.bmob.v3.datatype.BmobGeoPoint)
+cn.bmob.v3.datatype.BmobGeoPoint: double distanceInKilometersTo(cn.bmob.v3.datatype.BmobGeoPoint)
+cn.bmob.v3.datatype.BmobGeoPoint: double distanceInMilesTo(cn.bmob.v3.datatype.BmobGeoPoint)
+cn.bmob.v3.datatype.BmobPointer
+cn.bmob.v3.datatype.BmobPointer: long serialVersionUID
+cn.bmob.v3.datatype.BmobPointer: java.lang.String __type
+cn.bmob.v3.datatype.BmobPointer: java.lang.String className
+cn.bmob.v3.datatype.BmobPointer: java.lang.String objectId
+cn.bmob.v3.datatype.BmobPointer: org.json.JSONObject params
+cn.bmob.v3.datatype.BmobPointer: cn.bmob.v3.requestmanager.thing requestCommand
+cn.bmob.v3.datatype.BmobPointer: a.thing rApi$6fc396a8
+cn.bmob.v3.datatype.BmobPointer: BmobPointer(java.lang.Object)
+cn.bmob.v3.datatype.BmobPointer: java.lang.String getClassName()
+cn.bmob.v3.datatype.BmobPointer: void setClassName(java.lang.String)
+cn.bmob.v3.datatype.BmobPointer: java.lang.String getObjectId()
+cn.bmob.v3.datatype.BmobPointer: void setObjectId(java.lang.String)
+cn.bmob.v3.datatype.BmobPointer: void getObject(android.content.Context,cn.bmob.v3.listener.GetListener)
+cn.bmob.v3.datatype.BmobRelation
+cn.bmob.v3.datatype.BmobRelation: long serialVersionUID
+cn.bmob.v3.datatype.BmobRelation: java.lang.String __op
+cn.bmob.v3.datatype.BmobRelation: java.util.List objects
+cn.bmob.v3.datatype.BmobRelation: BmobRelation(java.lang.Object)
+cn.bmob.v3.datatype.BmobRelation: BmobRelation()
+cn.bmob.v3.datatype.BmobRelation: void add(java.lang.Object)
+cn.bmob.v3.datatype.BmobRelation: void remove(java.lang.Object)
+cn.bmob.v3.datatype.BmobRelation: void isRemove(boolean)
+cn.bmob.v3.datatype.BmobRelation: java.lang.String get__op()
+cn.bmob.v3.datatype.BmobRelation: java.util.List getObjects()
+cn.bmob.v3.datatype.BmobRelation: void setObjects(java.util.List)
+cn.bmob.v3.listener.BmobUpdateListener
+cn.bmob.v3.listener.BmobUpdateListener: void onUpdateReturned(int,cn.bmob.v3.update.UpdateResponse)
+cn.bmob.v3.listener.CloudCodeListener
+cn.bmob.v3.listener.CloudCodeListener: void onSuccess(java.lang.Object)
+cn.bmob.v3.listener.CloudCodeListener: void onFailure(int,java.lang.String)
+cn.bmob.v3.listener.CountListener
+cn.bmob.v3.listener.CountListener: void onSuccess(int)
+cn.bmob.v3.listener.CountListener: void onFailure(int,java.lang.String)
+cn.bmob.v3.listener.DeleteListener
+cn.bmob.v3.listener.DeleteListener: void onSuccess()
+cn.bmob.v3.listener.DeleteListener: void onFailure(int,java.lang.String)
+cn.bmob.v3.listener.EmailVerifyListener
+cn.bmob.v3.listener.EmailVerifyListener: void onSuccess()
+cn.bmob.v3.listener.EmailVerifyListener: void onFailure(int,java.lang.String)
+cn.bmob.v3.listener.FindCallback
+cn.bmob.v3.listener.FindCallback: void onSuccess(org.json.JSONArray)
+cn.bmob.v3.listener.FindCallback: void onFailure(int,java.lang.String)
+cn.bmob.v3.listener.FindListener
+cn.bmob.v3.listener.FindListener: void onSuccess(java.util.List)
+cn.bmob.v3.listener.FindListener: void onError(int,java.lang.String)
+cn.bmob.v3.listener.GetCallback
+cn.bmob.v3.listener.GetCallback: void onSuccess(org.json.JSONObject)
+cn.bmob.v3.listener.GetCallback: void onFailure(int,java.lang.String)
+cn.bmob.v3.listener.GetListener
+cn.bmob.v3.listener.GetListener: void onSuccess(java.lang.Object)
+cn.bmob.v3.listener.GetListener: void onFailure(int,java.lang.String)
+cn.bmob.v3.listener.GetServerTimeListener
+cn.bmob.v3.listener.GetServerTimeListener: void onSuccess(long)
+cn.bmob.v3.listener.GetServerTimeListener: void onFailure(int,java.lang.String)
+cn.bmob.v3.listener.OtherLoginListener
+cn.bmob.v3.listener.OtherLoginListener: void onSuccess(org.json.JSONObject)
+cn.bmob.v3.listener.OtherLoginListener: void onFailure(int,java.lang.String)
+cn.bmob.v3.listener.PushListener
+cn.bmob.v3.listener.PushListener: void onSuccess()
+cn.bmob.v3.listener.PushListener: void onFailure(int,java.lang.String)
+cn.bmob.v3.listener.ResetPasswordListener
+cn.bmob.v3.listener.ResetPasswordListener: void onSuccess()
+cn.bmob.v3.listener.ResetPasswordListener: void onFailure(int,java.lang.String)
+cn.bmob.v3.listener.SaveListener
+cn.bmob.v3.listener.SaveListener: void onSuccess()
+cn.bmob.v3.listener.SaveListener: void onFailure(int,java.lang.String)
+cn.bmob.v3.listener.ThumbnailUrlListener
+cn.bmob.v3.listener.ThumbnailUrlListener: void onSuccess(java.lang.String)
+cn.bmob.v3.listener.ThumbnailUrlListener: void onFailure(int,java.lang.String)
+cn.bmob.v3.listener.UpdateListener
+cn.bmob.v3.listener.UpdateListener: void onSuccess()
+cn.bmob.v3.listener.UpdateListener: void onFailure(int,java.lang.String)
+cn.bmob.v3.listener.UploadFileListener
+cn.bmob.v3.listener.UploadFileListener: void onProgress(java.lang.Integer)
+cn.bmob.v3.listener.UploadFileListener: void onSuccess()
+cn.bmob.v3.listener.UploadFileListener: void onFailure(int,java.lang.String)
+cn.bmob.v3.listener.XListener
+cn.bmob.v3.listener.XListener: void onSuccess(j.madness)
+cn.bmob.v3.listener.XListener: void onFailure(int,java.lang.String)
+cn.bmob.v3.requestmanager.ApiResult
+cn.bmob.v3.requestmanager.ApiResult: j.madness data
+cn.bmob.v3.requestmanager.ApiResult: cn.bmob.v3.requestmanager.Result result
+cn.bmob.v3.requestmanager.ApiResult: ApiResult()
+cn.bmob.v3.requestmanager.ApiResult: j.madness getData()
+cn.bmob.v3.requestmanager.ApiResult: void setData(j.madness)
+cn.bmob.v3.requestmanager.ApiResult: cn.bmob.v3.requestmanager.Result getResult()
+cn.bmob.v3.requestmanager.ApiResult: void setResult(cn.bmob.v3.requestmanager.Result)
+cn.bmob.v3.requestmanager.ApiResult: java.lang.String toString()
+cn.bmob.v3.requestmanager.Result
+cn.bmob.v3.requestmanager.Result: int code
+cn.bmob.v3.requestmanager.Result: java.lang.String message
+cn.bmob.v3.requestmanager.Result: int getCode()
+cn.bmob.v3.requestmanager.Result: void setCode(int)
+cn.bmob.v3.requestmanager.Result: java.lang.String getMessage()
+cn.bmob.v3.requestmanager.Result: void setMessage(java.lang.String)
+cn.bmob.v3.requestmanager.Result: Result()
+cn.bmob.v3.requestmanager.This
+cn.bmob.v3.requestmanager.This: a.thing U
+cn.bmob.v3.requestmanager.This: h.this$thing W
+cn.bmob.v3.requestmanager.This: This(a.thing,h.this$thing,h.this$This)
+cn.bmob.v3.requestmanager.This: h.this Code(h.The)
+cn.bmob.v3.requestmanager.This: java.util.Map getHeaders()
+cn.bmob.v3.requestmanager.This: void Code(java.lang.Object)
+cn.bmob.v3.requestmanager.thing
+cn.bmob.v3.requestmanager.thing: android.content.Context mContext
+cn.bmob.v3.requestmanager.thing: a.thing X
+cn.bmob.v3.requestmanager.thing: h.Though Y
+cn.bmob.v3.requestmanager.thing: cn.bmob.v3.requestmanager.thing aa
+cn.bmob.v3.requestmanager.thing: thing(android.content.Context)
+cn.bmob.v3.requestmanager.thing: cn.bmob.v3.requestmanager.thing Code(android.content.Context)
+cn.bmob.v3.requestmanager.thing: h.Though V(android.content.Context)
+cn.bmob.v3.requestmanager.thing: cn.bmob.v3.requestmanager.thing Code(a.thing)
+cn.bmob.v3.requestmanager.thing: void Code(cn.bmob.v3.listener.XListener)
+cn.bmob.v3.requestmanager.thing: void Code(java.lang.reflect.Type,cn.bmob.v3.listener.FindListener,boolean)
+cn.bmob.v3.requestmanager.thing: void Code(java.lang.reflect.Type,cn.bmob.v3.listener.GetListener,boolean)
+cn.bmob.v3.requestmanager.thing: boolean Code(java.lang.reflect.Type,cn.bmob.v3.listener.FindListener,long)
+cn.bmob.v3.requestmanager.thing: boolean Code(java.lang.reflect.Type,cn.bmob.v3.listener.GetListener,long)
+cn.bmob.v3.requestmanager.thing: void Code(cn.bmob.v3.requestmanager.thing,java.lang.String)
+cn.bmob.v3.requestmanager.thing: thing()
+cn.bmob.v3.requestmanager.thing: java.util.Map I(android.content.Context)
+cn.bmob.v3.requestmanager.thing: java.lang.String getInstallationId(android.content.Context)
+cn.bmob.v3.requestmanager.thing: java.lang.String Z(android.content.Context)
+cn.bmob.v3.requestmanager.thing: java.lang.String V()
+cn.bmob.v3.requestmanager.thing: java.lang.String B(android.content.Context)
+cn.bmob.v3.requestmanager.thing: boolean Code(android.content.Context,java.lang.String)
+cn.bmob.v3.requestmanager.thing: boolean Code(java.lang.String,int,int)
+cn.bmob.v3.requestmanager.thing$1
+cn.bmob.v3.requestmanager.thing$1: cn.bmob.v3.listener.XListener O
+cn.bmob.v3.requestmanager.thing$1: thing$1(cn.bmob.v3.requestmanager.thing,cn.bmob.v3.listener.XListener)
+cn.bmob.v3.requestmanager.thing$1: void V(java.lang.Object)
+cn.bmob.v3.requestmanager.thing$2
+cn.bmob.v3.requestmanager.thing$2: cn.bmob.v3.listener.XListener O
+cn.bmob.v3.requestmanager.thing$2: thing$2(cn.bmob.v3.requestmanager.thing,cn.bmob.v3.listener.XListener)
+cn.bmob.v3.requestmanager.thing$2: void Code(h.is)
+cn.bmob.v3.requestmanager.thing$3
+cn.bmob.v3.requestmanager.thing$3: cn.bmob.v3.requestmanager.thing ab
+cn.bmob.v3.requestmanager.thing$3: boolean ac
+cn.bmob.v3.requestmanager.thing$3: java.lang.reflect.Type ad
+cn.bmob.v3.requestmanager.thing$3: cn.bmob.v3.listener.FindListener r
+cn.bmob.v3.requestmanager.thing$3: thing$3(cn.bmob.v3.requestmanager.thing,boolean,java.lang.reflect.Type,cn.bmob.v3.listener.FindListener)
+cn.bmob.v3.requestmanager.thing$3: void onSuccess(j.madness)
+cn.bmob.v3.requestmanager.thing$3: void onFailure(int,java.lang.String)
+cn.bmob.v3.requestmanager.thing$4
+cn.bmob.v3.requestmanager.thing$4: cn.bmob.v3.requestmanager.thing ab
+cn.bmob.v3.requestmanager.thing$4: boolean ac
+cn.bmob.v3.requestmanager.thing$4: java.lang.reflect.Type ad
+cn.bmob.v3.requestmanager.thing$4: cn.bmob.v3.listener.GetListener ae
+cn.bmob.v3.requestmanager.thing$4: thing$4(cn.bmob.v3.requestmanager.thing,boolean,java.lang.reflect.Type,cn.bmob.v3.listener.GetListener)
+cn.bmob.v3.requestmanager.thing$4: void onSuccess(j.madness)
+cn.bmob.v3.requestmanager.thing$4: void onFailure(int,java.lang.String)
+cn.bmob.v3.update.BmobUpdateAgent
+cn.bmob.v3.update.BmobUpdateAgent: cn.bmob.v3.listener.BmobUpdateListener ao
+cn.bmob.v3.update.BmobUpdateAgent: void <clinit>()
+cn.bmob.v3.update.BmobUpdateAgent: BmobUpdateAgent()
+cn.bmob.v3.update.BmobUpdateAgent: void update(android.content.Context)
+cn.bmob.v3.update.BmobUpdateAgent: void forceUpdate(android.content.Context)
+cn.bmob.v3.update.BmobUpdateAgent: void silentUpdate(android.content.Context)
+cn.bmob.v3.update.BmobUpdateAgent: void setDefault()
+cn.bmob.v3.update.BmobUpdateAgent: void setUpdateOnlyWifi(boolean)
+cn.bmob.v3.update.BmobUpdateAgent: void setUpdateCheckConfig(boolean)
+cn.bmob.v3.update.BmobUpdateAgent: void setUpdateListener(cn.bmob.v3.listener.BmobUpdateListener)
+cn.bmob.v3.update.BmobUpdateAgent: void Code(int,android.content.Context,cn.bmob.v3.update.UpdateResponse,java.io.File)
+cn.bmob.v3.update.BmobUpdateAgent: boolean C(android.content.Context)
+cn.bmob.v3.update.BmobUpdateAgent: void startInstall(android.content.Context,java.io.File)
+cn.bmob.v3.update.BmobUpdateAgent: void S(android.content.Context)
+cn.bmob.v3.update.BmobUpdateAgent: cn.bmob.v3.listener.BmobUpdateListener I()
+cn.bmob.v3.update.BmobUpdateAgent: void Code(android.content.Context,cn.bmob.v3.update.UpdateResponse,java.io.File)
+cn.bmob.v3.update.BmobUpdateAgent$1
+cn.bmob.v3.update.BmobUpdateAgent$1: android.content.Context S
+cn.bmob.v3.update.BmobUpdateAgent$1: BmobUpdateAgent$1(android.content.Context)
+cn.bmob.v3.update.BmobUpdateAgent$1: void onSuccess(org.json.JSONArray)
+cn.bmob.v3.update.BmobUpdateAgent$1: void onFailure(int,java.lang.String)
+cn.bmob.v3.update.UpdateDialogActivity
+cn.bmob.v3.update.UpdateDialogActivity: cn.bmob.v3.update.UpdateResponse ap
+cn.bmob.v3.update.UpdateDialogActivity: int a
+cn.bmob.v3.update.UpdateDialogActivity: int aq
+cn.bmob.v3.update.UpdateDialogActivity: int ar
+cn.bmob.v3.update.UpdateDialogActivity: int as
+cn.bmob.v3.update.UpdateDialogActivity: java.io.File file
+cn.bmob.v3.update.UpdateDialogActivity: boolean at
+cn.bmob.v3.update.UpdateDialogActivity: UpdateDialogActivity()
+cn.bmob.v3.update.UpdateDialogActivity: void onCreate(android.os.Bundle)
+cn.bmob.v3.update.UpdateDialogActivity: void onClick(android.view.View)
+cn.bmob.v3.update.UpdateDialogActivity: void onDestroy()
+cn.bmob.v3.update.UpdateDialogActivity$1
+cn.bmob.v3.update.UpdateDialogActivity$1: cn.bmob.v3.update.UpdateDialogActivity au
+cn.bmob.v3.update.UpdateDialogActivity$1: UpdateDialogActivity$1(cn.bmob.v3.update.UpdateDialogActivity)
+cn.bmob.v3.update.UpdateDialogActivity$1: void onCheckedChanged(android.widget.CompoundButton,boolean)
+cn.bmob.v3.update.UpdateResponse
+cn.bmob.v3.update.UpdateResponse: long serialVersionUID
+cn.bmob.v3.update.UpdateResponse: java.lang.String path
+cn.bmob.v3.update.UpdateResponse: java.lang.String path_md5
+cn.bmob.v3.update.UpdateResponse: java.lang.String version
+cn.bmob.v3.update.UpdateResponse: int version_i
+cn.bmob.v3.update.UpdateResponse: java.lang.String updateLog
+cn.bmob.v3.update.UpdateResponse: boolean delta
+cn.bmob.v3.update.UpdateResponse: java.lang.String size
+cn.bmob.v3.update.UpdateResponse: java.lang.String target_size
+cn.bmob.v3.update.UpdateResponse: UpdateResponse(org.json.JSONObject)
+cn.bmob.v3.update.UpdateResponse: java.lang.String getUpdateInfo(android.content.Context,boolean)
+cn.bmob.v3.update.UpdateStatus
+cn.bmob.v3.update.UpdateStatus: int Yes
+cn.bmob.v3.update.UpdateStatus: int No
+cn.bmob.v3.update.UpdateStatus: int NoneWifi
+cn.bmob.v3.update.UpdateStatus: int Timeout
+cn.bmob.v3.update.UpdateStatus: int IsUpdate
+cn.bmob.v3.update.UpdateStatus: int Update
+cn.bmob.v3.update.UpdateStatus: int NotNow
+cn.bmob.v3.update.UpdateStatus: int Ignore
+cn.bmob.v3.update.UpdateStatus: int STYLE_DIALOG
+cn.bmob.v3.update.UpdateStatus: int STYLE_NOTIFICATION
+cn.bmob.v3.update.UpdateStatus: int DOWNLOAD_COMPLETE_FAIL
+cn.bmob.v3.update.UpdateStatus: int DOWNLOAD_COMPLETE_SUCCESS
+cn.bmob.v3.update.UpdateStatus: int DOWNLOAD_NEED_RESTART
+cn.bmob.v3.update.UpdateStatus: UpdateStatus()
+com.example.bmobexample.BaseActivity: BaseActivity()
+com.example.bmobexample.BatchActionActivity
+com.example.bmobexample.BatchActionActivity: BatchActionActivity()
+com.example.bmobexample.FindActivity
+com.example.bmobexample.FindActivity: FindActivity()
+com.example.bmobexample.MainActivity
+com.example.bmobexample.MainActivity: MainActivity()
+com.example.bmobexample.MyUser
+com.example.bmobexample.MyUser: java.lang.Integer age
+com.example.bmobexample.MyUser: java.lang.Boolean gender
+com.example.bmobexample.MyUser: MyUser()
+com.example.bmobexample.MyUser: java.lang.Integer getAge()
+com.example.bmobexample.MyUser: void setAge(java.lang.Integer)
+com.example.bmobexample.MyUser: java.lang.Boolean getGender()
+com.example.bmobexample.MyUser: void setGender(java.lang.Boolean)
+com.example.bmobexample.Person
+com.example.bmobexample.Person: java.lang.String name
+com.example.bmobexample.Person: java.lang.Integer age
+com.example.bmobexample.Person: java.lang.Boolean gender
+com.example.bmobexample.Person: java.lang.String address
+com.example.bmobexample.Person: java.lang.String email
+com.example.bmobexample.Person: com.example.bmobexample.BankCard bankCard
+com.example.bmobexample.Person: java.util.List hobby
+com.example.bmobexample.Person: cn.bmob.v3.datatype.BmobFile pic
+com.example.bmobexample.Person: cn.bmob.v3.datatype.BmobGeoPoint gpsAdd
+com.example.bmobexample.Person: cn.bmob.v3.datatype.BmobDate uploadTime
+com.example.bmobexample.Person: Person()
+com.example.bmobexample.Person: java.lang.String getName()
+com.example.bmobexample.Person: void setName(java.lang.String)
+com.example.bmobexample.Person: java.lang.Integer getAge()
+com.example.bmobexample.Person: void setAge(java.lang.Integer)
+com.example.bmobexample.Person: java.lang.Boolean isGender()
+com.example.bmobexample.Person: void setGender(java.lang.Boolean)
+com.example.bmobexample.Person: java.lang.String getAddress()
+com.example.bmobexample.Person: void setAddress(java.lang.String)
+com.example.bmobexample.Person: java.lang.String getEmail()
+com.example.bmobexample.Person: void setEmail(java.lang.String)
+com.example.bmobexample.Person: cn.bmob.v3.datatype.BmobFile getPic()
+com.example.bmobexample.Person: void setPic(cn.bmob.v3.datatype.BmobFile)
+com.example.bmobexample.Person: cn.bmob.v3.datatype.BmobGeoPoint getGpsAdd()
+com.example.bmobexample.Person: void setGpsAdd(cn.bmob.v3.datatype.BmobGeoPoint)
+com.example.bmobexample.Person: cn.bmob.v3.datatype.BmobDate getUploadTime()
+com.example.bmobexample.Person: void setUploadTime(cn.bmob.v3.datatype.BmobDate)
+com.example.bmobexample.Person: com.example.bmobexample.BankCard getBankCard()
+com.example.bmobexample.Person: void setBankCard(com.example.bmobexample.BankCard)
+com.example.bmobexample.Person: java.util.List getHobby()
+com.example.bmobexample.Person: void setHobby(java.util.List)
+com.example.bmobexample.R$array: int batch_action_list
+com.example.bmobexample.R$array: int bmob_findtest_list
+com.example.bmobexample.R$array: int bmob_push_list
+com.example.bmobexample.R$array: int bmob_test_list
+com.example.bmobexample.R$color: int border
+com.example.bmobexample.R$color: int border_bkg
+com.example.bmobexample.R$color: int button
+com.example.bmobexample.R$color: int button_disable
+com.example.bmobexample.R$color: int button_press
+com.example.bmobexample.R$color: int button_text
+com.example.bmobexample.R$color: int main_bkg
+com.example.bmobexample.R$color: int text
+com.example.bmobexample.R$color: int transparent
+com.example.bmobexample.R$dimen: int activity_horizontal_margin
+com.example.bmobexample.R$dimen: int activity_vertical_margin
+com.example.bmobexample.R$drawable: int bmob_update_btn_check_off_focused_holo_light
+com.example.bmobexample.R$drawable: int bmob_update_btn_check_off_holo_light
+com.example.bmobexample.R$drawable: int bmob_update_btn_check_off_pressed_holo_light
+com.example.bmobexample.R$drawable: int bmob_update_btn_check_on_focused_holo_light
+com.example.bmobexample.R$drawable: int bmob_update_btn_check_on_holo_light
+com.example.bmobexample.R$drawable: int bmob_update_btn_check_on_pressed_holo_light
+com.example.bmobexample.R$drawable: int bmob_update_button_cancel_bg_focused
+com.example.bmobexample.R$drawable: int bmob_update_button_cancel_bg_normal
+com.example.bmobexample.R$drawable: int bmob_update_button_cancel_bg_selector
+com.example.bmobexample.R$drawable: int bmob_update_button_cancel_bg_tap
+com.example.bmobexample.R$drawable: int bmob_update_button_check_selector
+com.example.bmobexample.R$drawable: int bmob_update_button_close_bg_selector
+com.example.bmobexample.R$drawable: int bmob_update_button_ok_bg_focused
+com.example.bmobexample.R$drawable: int bmob_update_button_ok_bg_normal
+com.example.bmobexample.R$drawable: int bmob_update_button_ok_bg_selector
+com.example.bmobexample.R$drawable: int bmob_update_button_ok_bg_tap
+com.example.bmobexample.R$drawable: int bmob_update_close_bg_normal
+com.example.bmobexample.R$drawable: int bmob_update_close_bg_tap
+com.example.bmobexample.R$drawable: int bmob_update_dialog_bg
+com.example.bmobexample.R$drawable: int bmob_update_wifi_disable
+com.example.bmobexample.R$drawable: int ic_launcher
+com.example.bmobexample.R$drawable: int selector_button
+com.example.bmobexample.R$drawable: int selector_list_item
+com.example.bmobexample.R$id: int bmob_update_content
+com.example.bmobexample.R$id: int bmob_update_id_cancel
+com.example.bmobexample.R$id: int bmob_update_id_check
+com.example.bmobexample.R$id: int bmob_update_id_close
+com.example.bmobexample.R$id: int bmob_update_id_ignore
+com.example.bmobexample.R$id: int bmob_update_id_ok
+com.example.bmobexample.R$id: int bmob_update_wifi_indicator
+com.example.bmobexample.R$id: int btn_publish
+com.example.bmobexample.R$id: int et_content
+com.example.bmobexample.R$id: int listview
+com.example.bmobexample.R$id: int tv_author
+com.example.bmobexample.R$id: int tv_content
+com.example.bmobexample.R$id: int tv_item
+com.example.bmobexample.R$layout: int act_push
+com.example.bmobexample.R$layout: int activity_comment
+com.example.bmobexample.R$layout: int activity_find
+com.example.bmobexample.R$layout: int activity_main
+com.example.bmobexample.R$layout: int activity_weibo
+com.example.bmobexample.R$layout: int bmob_update_dialog
+com.example.bmobexample.R$layout: int list_item
+com.example.bmobexample.R$layout: int list_item_weibo
+com.example.bmobexample.R$string: int BMAppUpdate
+com.example.bmobexample.R$string: int BMBreak_Network
+com.example.bmobexample.R$string: int BMDialog_InstallAPK
+com.example.bmobexample.R$string: int BMGprsCondition
+com.example.bmobexample.R$string: int BMIgnore
+com.example.bmobexample.R$string: int BMNewVersion
+com.example.bmobexample.R$string: int BMNotNow
+com.example.bmobexample.R$string: int BMTargetSize
+com.example.bmobexample.R$string: int BMToast_IsUpdating
+com.example.bmobexample.R$string: int BMUpdateCheck
+com.example.bmobexample.R$string: int BMUpdateContent
+com.example.bmobexample.R$string: int BMUpdateNow
+com.example.bmobexample.R$string: int BMUpdateSize
+com.example.bmobexample.R$string: int BMUpdateTitle
+com.example.bmobexample.R$string: int action_settings
+com.example.bmobexample.R$string: int app_name
+com.example.bmobexample.R$string: int bmob_common_action_cancel
+com.example.bmobexample.R$string: int bmob_common_action_continue
+com.example.bmobexample.R$string: int bmob_common_action_info_exist
+com.example.bmobexample.R$string: int bmob_common_action_pause
+com.example.bmobexample.R$string: int bmob_common_download_failed
+com.example.bmobexample.R$string: int bmob_common_download_finish
+com.example.bmobexample.R$string: int bmob_common_download_notification_prefix
+com.example.bmobexample.R$string: int bmob_common_info_interrupt
+com.example.bmobexample.R$string: int bmob_common_network_break_alert
+com.example.bmobexample.R$string: int bmob_common_patch_finish
+com.example.bmobexample.R$string: int bmob_common_pause_notification_prefix
+com.example.bmobexample.R$string: int bmob_common_silent_download_finish
+com.example.bmobexample.R$string: int bmob_common_start_download_notification
+com.example.bmobexample.R$string: int bmob_common_start_patch_notification
+com.example.bmobexample.R$string: int close
+com.example.bmobexample.R$string: int comment
+com.example.bmobexample.R$string: int hello_world
+com.example.bmobexample.R$string: int publish
+com.example.bmobexample.R$string: int share
+com.example.bmobexample.R$string: int title_changelog
+com.example.bmobexample.R$style: int AppBaseTheme
+com.example.bmobexample.R$style: int AppTheme
+com.example.bmobexample.R$xml: int changelog
+com.example.bmobexample.autoupdate.ActAutoUpdate
+com.example.bmobexample.autoupdate.ActAutoUpdate: ActAutoUpdate()
+com.example.bmobexample.push.ActBmobPush
+com.example.bmobexample.push.ActBmobPush: ActBmobPush()
+com.example.bmobexample.push.MyMessageReceiver
+com.example.bmobexample.push.MyMessageReceiver: MyMessageReceiver()
+com.example.bmobexample.relationaldata.Comment
+com.example.bmobexample.relationaldata.Comment: java.lang.String content
+com.example.bmobexample.relationaldata.Comment: com.example.bmobexample.MyUser author
+com.example.bmobexample.relationaldata.Comment: Comment()
+com.example.bmobexample.relationaldata.Comment: java.lang.String getContent()
+com.example.bmobexample.relationaldata.Comment: void setContent(java.lang.String)
+com.example.bmobexample.relationaldata.Comment: com.example.bmobexample.MyUser getAuthor()
+com.example.bmobexample.relationaldata.Comment: void setAuthor(com.example.bmobexample.MyUser)
+com.example.bmobexample.relationaldata.CommentListActivity
+com.example.bmobexample.relationaldata.CommentListActivity: CommentListActivity()
+com.example.bmobexample.relationaldata.Weibo
+com.example.bmobexample.relationaldata.Weibo: java.lang.String content
+com.example.bmobexample.relationaldata.Weibo: com.example.bmobexample.MyUser author
+com.example.bmobexample.relationaldata.Weibo: cn.bmob.v3.datatype.BmobRelation comment
+com.example.bmobexample.relationaldata.Weibo: Weibo()
+com.example.bmobexample.relationaldata.Weibo: java.lang.String getContent()
+com.example.bmobexample.relationaldata.Weibo: void setContent(java.lang.String)
+com.example.bmobexample.relationaldata.Weibo: com.example.bmobexample.MyUser getAuthor()
+com.example.bmobexample.relationaldata.Weibo: void setAuthor(com.example.bmobexample.MyUser)
+com.example.bmobexample.relationaldata.Weibo: cn.bmob.v3.datatype.BmobRelation getComment()
+com.example.bmobexample.relationaldata.Weibo: void setComment(cn.bmob.v3.datatype.BmobRelation)
+com.example.bmobexample.relationaldata.WeiboListActivity
+com.example.bmobexample.relationaldata.WeiboListActivity: WeiboListActivity()
+h.i: h.method$This bv
+h.i: int bw
+h.i: java.lang.String mUrl
+h.i: int bx
+h.i: h.this$This by
+h.i: java.lang.Integer bz
+h.i: h.Though Y
+h.i: boolean bA
+h.i: boolean bB
+h.i: boolean bC
+h.i: long bD
+h.i: h.madness bE
+h.i: h.thing$This bF
+h.i: i(int,java.lang.String,h.this$This)
+h.i: int getMethod()
+h.i: int b()
+h.i: h.i Code(h.madness)
+h.i: void f(java.lang.String)
+h.i: void g(java.lang.String)
+h.i: h.i Code(h.Though)
+h.i: h.i Code(int)
+h.i: java.lang.String getUrl()
+h.i: java.lang.String c()
+h.i: h.i Code(h.thing$This)
+h.i: h.thing$This d()
+h.i: boolean isCanceled()
+h.i: java.util.Map getHeaders()
+h.i: java.lang.String e()
+h.i: byte[] f()
+h.i: java.lang.String g()
+h.i: byte[] h()
+h.i: byte[] Code(java.util.Map,java.lang.String)
+h.i: boolean i()
+h.i: h.i$This j()
+h.i: int k()
+h.i: h.madness l()
+h.i: void m()
+h.i: boolean n()
+h.i: h.this Code(h.The)
+h.i: h.is V(h.is)
+h.i: void Code(java.lang.Object)
+h.i: void I(h.is)
+h.i: java.lang.String toString()
+h.i: int compareTo(java.lang.Object)
+h.i: h.method$This V(h.i)
+i.Tempest: Tempest(int,java.lang.String,org.json.JSONObject,h.this$thing,h.this$This)
+i.Tempest: h.this Code(h.The)
+i.V: java.lang.String cO
+i.V: h.this$thing cJ
+i.V: java.lang.String cP
+i.V: void <clinit>()
+i.V: V(int,java.lang.String,java.lang.String,h.this$thing,h.this$This)
+i.V: void Code(java.lang.Object)
+i.V: java.lang.String e()
+i.V: byte[] f()
+i.V: java.lang.String g()
+i.V: byte[] h()

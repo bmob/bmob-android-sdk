@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+    <release
+        version="3.2.1">
+        <change>增加删除字段功能</change>
+        <change>增加对数组字段的增删改查功能</change>
+        <change>去除insertObject、updateObject等过期方法</change>
+        <change>修改云端代码返回Json数据时带反斜杠的问题</change>
+        <change>修复其他Bug</change>
+    </release>
+</changelog>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+    <release
+        version="3.2.3">
+        <change>第三方账号登陆增加QQ、新浪微博关联与取消关联的方法</change>
+        <change>自动更新组件支持自动创建AppVersion表，不再需要手动创建。</change>
+        <change>自动更新组件新增强制更新和忽略版本更新功能</change>
+        <change>修复调用BmobUser的update(context)方法和BmobObject的save(context)方法报错的bug</change>
+        <change>修复其他bug</change>
+    </release>
+</changelog>
