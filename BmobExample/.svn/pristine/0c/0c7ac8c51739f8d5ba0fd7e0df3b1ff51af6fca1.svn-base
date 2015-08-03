@@ -1,3 +1,0 @@
-0000000000000000000000000000000000000000 3be3b0fe7513391f56d147443942230dd0504342 baikingrio <baikingrio@gmail.com> 1406101390 +0800	commit (initial): 初始提交
-3be3b0fe7513391f56d147443942230dd0504342 5f1eb35d0029da7edf26afc771f22188325c8b64 baikingrio <baikingrio@gmail.com> 1406168164 +0800	commit: :space_invader: Added .gitattributes & .gitignore files
-5f1eb35d0029da7edf26afc771f22188325c8b64 519de762e5dc0b6ab0a2baee5a5bb4d7fd446f28 baikingrio <baikingrio@gmail.com> 1406168730 +0800	commit: 更新BmobSDK包为bmob_v3.1.8.jar
