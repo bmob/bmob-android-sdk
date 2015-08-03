@@ -1,19 +1,16 @@
 Bmob Android SDK
 ===========
 
+Bmob后端云为移动应用程序提供了一整套完整的后端解决方案,详情可访问 [官方网站](http://www.bmob.cn)
+
+
 # 快速入门
 
-不知道如何使用Bmob Android SDK的朋友可以移步查看我们为大家准备的快速入门文档http://docs.bmob.cn/android/faststart/index.html?menukey=fast_start&key=start_android
-
-# 源码说明
-
-`bmobsdk_v3.2.3_0919.jar`为Bmob提供的SDK包，`bmobPush_0.3_beta.jar`为Bmob提供的推送服务包，`BmobExample`文件夹包含了官方提供的Demo。
-
+不知道如何使用Bmob Android SDK的开发者可移步查看Bmob官方提供的 [Bmob Android SDK快速入门文档](http://docs.bmob.cn/android/faststart/index.html?menukey=fast_start&key=start_android)。
 
 # Bmob官方信息
 
-官方网址：[http://www.bmob.cn](http://www.bmob.cn)
-
-问答社区：[http://wenda.bmob.cn](http://wenda.bmob.cn)
-
-技术邮箱：support@bmob.cn
+- [官方网站](http://www.bmob.cn)
+- [开发文档](http://docs.bmob.cn/android/developdoc/index.html?menukey=develop_doc&key=develop_android)
+- [Bmob论坛](http://community.bmob.cn/forum.php)
+- [技术邮箱](support@bmob.cn)
