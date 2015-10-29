@@ -3,12 +3,13 @@
   <groupId>cn.bmob.android</groupId>
   <artifactId>bmob-sdk</artifactId>
   <versioning>
-    <release>3.4.3</release>
+    <release>3.4.4</release>
     <versions>
       <version>3.4.2</version>
       <version>3.3.5</version>
       <version>3.4.3</version>
+      <version>3.4.4</version>
     </versions>
-    <lastUpdated>20150820080806</lastUpdated>
+    <lastUpdated>20151029044627</lastUpdated>
   </versioning>
 </metadata>
