@@ -3,10 +3,10 @@
   <groupId>cn.bmob.android</groupId>
   <artifactId>bmob-sdk</artifactId>
   <versioning>
-    <release>3.4.7@aar</release>
+    <release>3.4.7-aar</release>
     <versions>
-      <version>3.4.7@aar</version>
+      <version>3.4.7-aar</version>
     </versions>
-    <lastUpdated>20160527024218</lastUpdated>
+    <lastUpdated>20160527024745</lastUpdated>
   </versioning>
 </metadata>
