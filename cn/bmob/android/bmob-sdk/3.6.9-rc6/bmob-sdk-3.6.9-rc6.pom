@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>cn.bmob.android</groupId>
   <artifactId>bmob-sdk</artifactId>
-  <version>3.6.9</version>
+  <version>3.6.9-rc6</version>
   <packaging>aar</packaging>
 </project>
