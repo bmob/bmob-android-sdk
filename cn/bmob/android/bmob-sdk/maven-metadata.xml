@@ -3,7 +3,7 @@
   <groupId>cn.bmob.android</groupId>
   <artifactId>bmob-sdk</artifactId>
   <versioning>
-    <release>3.7.6-rc1</release>
+    <release>3.7.6-rc2</release>
     <versions>
       <version>3.4.7-aar</version>
       <version>3.5.0</version>
@@ -75,7 +75,8 @@
       <version>3.7.5</version>
       <version>3.7.6</version>
       <version>3.7.6-rc1</version>
+      <version>3.7.6-rc2</version>
     </versions>
-    <lastUpdated>20200213090909</lastUpdated>
+    <lastUpdated>20200214091416</lastUpdated>
   </versioning>
 </metadata>
