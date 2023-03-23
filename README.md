@@ -11,5 +11,5 @@ Bmob后端云为移动应用程序提供了一整套完整的后端解决方案,
 # Bmob官方信息
 
 - [官方网站](https://www.bmobapp.com/)
-- [开发文档](http://doc.bmobapp.com/data/android/index.html)
--技术邮箱：support@bmobapp.com
+- [开发文档](http://doc.bmobapp.com/data/android/index.html)  
+- 技术邮箱：support@bmobapp.com
